@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Lakshmi Priya
 
-<!--
-**zellah4451-gif/zellah4451-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+🤖 AI/ML & Agentic AI Enthusiast
+🐍 Python Developer
 
-Here are some ideas to get you started:
+About Me
+────────
+• Learning AI/ML and Deep Learning
+• Building AI Agents and LLM applications
+• Interested in solving real-world problems with AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+──────────
+Python | C | Java | Git | GitHub
+Machine Learning | Computer Vision
+LLMs | Agentic AI | Multi-Agent Systems
+
+Featured Projects
+──────────────────
+🤖 Multi-Agent AI Coordinator
+🔎 Phishing URL Detection
+📰 Kerala News AI Agent
+🧳 AI Travel Assistant
+
+Currently Learning
+──────────────────
+Deep Learning • LLMs • AI Agents
